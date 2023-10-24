@@ -125,7 +125,7 @@
         }
 
         #main-image {
-            content: url("../images/image-product-mobile.jpg");
+            content: url("./images/image-product-mobile.jpg");
             width: 375px;
             border-radius: 0.5rem;
         }
