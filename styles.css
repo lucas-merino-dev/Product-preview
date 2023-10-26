@@ -72,6 +72,7 @@
     }
 
     .price {
+        font-style: normal;
         display: inline-block;
         font-family: "Fraunces";
         color: var(--Dark-cyan);
